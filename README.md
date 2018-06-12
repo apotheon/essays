@@ -17,4 +17,4 @@ See the [LICENSE][license] file for details.
 
 [upstream]: http://fossrec.com/u/apotheon/essays
 [license]: https://fossrec.com/u/apotheon/essays/index.cgi/file?ci=tip&name=LICENSE
-[ai_cynicism]: http://fossrec.com/u/apotheon/essays/index.cgi/doc/trunk/misc/ai_cynicism.md
+[ai_cynicism]: http://fossrec.com/u/apotheon/essays/index.cgi/wiki?name=AI+Cynicism
