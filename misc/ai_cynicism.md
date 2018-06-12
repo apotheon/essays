@@ -65,7 +65,7 @@ As a cynic, having learned from not only my own experience but also the
 experience of observing other humans in their teeming masses making horrible
 individual decisions motivated by cognitive defects they don't care about
 fixing, I expect that optimistic AI researchers will incautiously strive toward
-creating general AIs, think they've scceeded when they haven't really *yet*,
+creating general AIs, think they've succeeded when they haven't really *yet*,
 and end up making a buggy limited AI that runs out of control and possibly
 kills everyone.  I want rational cynics working on the general AI problem,
 because I want people to work on advancing the science but I want them to do it
@@ -101,7 +101,7 @@ digital network equivalent of [grey goo][goo], also known as the all-consuming
 nanotech apocalypse.
 
 Every time I see something in the vein of the Pollyanna optimistic "all you
-luddites should get out of the way, you're the problem" narrative around why we
+Luddites should get out of the way, you're the problem" narrative around why we
 should just uncritically throw money at AI researchers and hope for the best, I
 worry about how these idiots are going to kill us all.
 
