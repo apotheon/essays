@@ -10,6 +10,14 @@ The canonical location for this repository, as of this writing, is:
 
 * [AI Cynicism][ai_cynicism]
 
+## Comments
+
+To add a comment to any essay's wiki page, click the "Append" link at the top,
+sign in if necessary, and fill in the comment box it provides.  Use Markdown
+formatting for your comments.  If you want to comment without having an account
+of your own, you will have a chance to "sign in" as an "anonymous" user after
+you click the "Append" link.
+
 ## Copyright
 
 These essays are provided under the terms of the Detachable Public License.
