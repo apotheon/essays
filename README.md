@@ -9,6 +9,7 @@ The canonical location for this repository, as of this writing, is:
 ## Essay List
 
 * [AI Cynicism][ai_cynicism]
+* [Distributed Ownership][distrib_own]
 
 ## Comments
 
@@ -26,3 +27,4 @@ See the [LICENSE][license] file for details.
 [upstream]: http://fossrec.com/u/apotheon/essays
 [license]: https://fossrec.com/u/apotheon/essays/index.cgi/file?ci=tip&name=LICENSE
 [ai_cynicism]: http://fossrec.com/u/apotheon/essays/index.cgi/wiki?name=AI+Cynicism
+[distrib_own]: http://fossrec.com/u/apotheon/essays/index.cgi/wiki?name=Distributed+Ownership
