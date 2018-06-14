@@ -24,10 +24,10 @@ One of the most philosophically pervasive attempts to dictate how economies shou
 
 Luckily, for the people who believe control of the means of production should be as widely distributed as possible, in to the hands of people using them, progress is being made.  We are fast approaching a world with maximally distributed control of the means of production, and I like that idea, given the way it is happening.  Key to my appreciation is the fact it is not the way the "Marxian" ideologues say they want it to happen.  The difference is simple:
 
-* I mean "distributed" in the same way Bitcoin, Fossil SCM, and other network
-  distributed technologies are "distributed"; in a descriptive sense of the
-  term, like referring to how leaves fall semi-randomly around a tree in
-  autumn.
+* I mean "distributed" in the same way Bitcoin, Fossil SCM, and other
+  networked, decentralized technologies are "distributed"; in a descriptive
+  sense of the term, like referring to how leaves fall semi-randomly around a
+  tree in autumn.
 
 * They mean "distributed" in the same way resources in a command economy are
   "distributed"; in an active, forcible sense of the term, like referring to
