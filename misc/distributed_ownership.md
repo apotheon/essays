@@ -47,3 +47,7 @@ I believe this would happen regardless of which economic management ideology bec
 That is assuming someone does not find a way to stop it.  It is always possible that, in our lifetimes, we may never see the ultimate promise of this trend toward the individualization and decentralization of economic power.  It also is possible we may wipe ourselves out, where by "we" I mostly mean people who still possess too much power over others and do not want to lose it, and by "ourselves" I mean all of humanity.
 
 If we, as a small but significant percentage of the species, decide it is important to live free, I think we can make it happen in a surprisingly short period of time.  The cynic in me is fully aware even well-meaning people who think they like freedom are unlikely to do anything to help, though, and may even act to hinder such efforts.  Ideological partisanship and apathetic comfort-seeking usually trump all other concerns, after all.
+
+---
+
+raw file in [misc](https://fossrec.com/u/apotheon/essays/index.cgi/dir?ci=trunk&name=misc)
