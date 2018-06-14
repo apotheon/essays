@@ -1,3 +1,5 @@
+# Distributed Ownership
+
 A planned economy is a bad economy.
 
 Large-scale economies are complex things.  They are complex to a degree only properly understood by certain experts in particular fields of study whose entire purposes are the intricacies and surprises of unmanageable complexity -- things so complex that a defining characteristic of them is that they regularly surprise people.  Most relevant is the study of "complex systems", a technical term that means a lot more than just "Will this collection of moving parts work as expected?"  An automobile design in a computer is not a "complex system" in this sense, but things like climates, economies, and ecosystems, and something the study of complex systems is that people who think they understand those systems well enough to deterministically alter them are simply plagued by unwarranted arrogance.
