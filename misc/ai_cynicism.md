@@ -116,3 +116,7 @@ cynic, not an AI optimist or AI pessimist.  We're probably going to need AI to
 survive in the long run, but we shouldn't literally kill ourselves to get
 there, and it's going to take a lot of work convincing people to be cognizant
 of, and careful enough about, the dangers.
+
+---
+
+raw file in [misc](https://fossrec.com/u/apotheon/essays/index.cgi/dir?ci=trunk&name=misc)
