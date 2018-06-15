@@ -6,10 +6,12 @@
 
 ### Familiarize yourself with open source platforms.
 
-This is not about learning "Linux".  This is about learning about open source
-OSes in a broader sense.  Learn at least one BSD Unix system.  Try out at least
-one system that is not BSD Unix, Linux, or closed source.  Play with something
-that comes with open source tools but does not even have an OS per se.
+This is not about learning "Linux".  It is not even about learning many Linux
+distributions, each of which is its own OS built on the same foundation.  This
+is about learning about open source OSes in a broader sense.  Learn at least
+one BSD Unix system.  Try out at least one system that is not BSD Unix, Linux,
+or closed source.  Play with something that comes with open source tools but
+does not even have an OS per se.
 
 Make sure you understand that there are very real benefits to using the most
 widely-used open source OSes (e.g. Ubuntu Linux); using the best-documented
@@ -21,6 +23,7 @@ make sure you aren't just using the same thing everywhere because it's what's
 familiar to you; make your decisions on a case-by-case basis.
 
 ### Learn to program well.
+
 
 ## Cultivate Virtuous Habits
 
@@ -38,9 +41,52 @@ that you made a decision to add to the body of good work in the world.
 
 ### Don't force people to reinvent the wheel.
 
+Just as you want to avoid repetition, you should help others avoid repetition
+as well.  When you solve a problem, solve a *general* problem if you can.  It
+should, in other words, solve a general class of problem, including the
+particular, specific use-case you have in mind right at this moment.  It's fine
+if you start out by solving a specific problem, but when you get a chance
+expand the solution to deal with other use cases as well, not one at a time but
+by generalizing the solution.  Feel free to apply specific use-case interfaces,
+as necessary, but try to avoid cluttering up the general solution.  Often,
+specific focus on particular use cases should be achieved by writing something
+that builds on top of the general solution, instead of piling extra complexity
+on the general solution.
+
+Even more important than providing general solutions, though, is ensuring that
+you clear away artificial hurdles to others making use of what you created.  If
+you use a restrictive license, many other people will not be able to use what
+you've created.  If you don't have time or inclination to extract a general
+solution from your solution to a particular use-case, applying a restrictive
+license to your specific solution might mean that other people can't legally
+extract the general solution from your specific solution, and have to reinvent
+that wheel.
+
 ### Fix things.
 
 ### Insist on quality.
+
+Don't go around pissing people off by demanding they produce what you consider
+quality.  That will just make you a pariah, and possibly have the opposite of
+the intended effect for your troubles.
+
+Instead, insist on quality from yourself at all times, and always seek out ways
+to improve the quality of what you use by trading up.
+
+Sometimes, insisting on quality means learning something new and weird so you
+can discover whether it is actually better than what you currently use.
+Someone with a strong desire to improve the quality in one's toolbox may easily
+go through eighteen OSes and a dozen window managers in a decade, each time
+getting a little farther from the mainstream but improving the reliability and
+productivity of one's working environment.
+
+Other times, insisting on quality means throwing away your first attempt at
+something and starting over with a better understanding of how to solve the
+problem it addresses, or refactoring huge swaths of a project before continuing
+work on core functionality, or even just asking for help and advice (anywhere
+from a personal request to posting code online and soliciting contributions and
+other help).  It certainly means never being satisfied as long as there is
+anything about your work that seems odd, or off, or simply difficult to grasp.
 
 ### Use time wisely.
 
@@ -51,6 +97,18 @@ it, because others may have already done it a thousand times, and it may still
 need to be done a thousand more.  The more we automate away the tedious tasks,
 the more time, inspiration, and energy we have to spend on achieving less
 tedious, more interesting goals.
+
+While you might be tempted to rewrite a restrictively licensed library to use a
+less restrictive license (and that's a good, solid goal sometimes), it is often
+more important to get *something* working *right now*.  Sometimes it makes more
+sense to write unrestrictively licensed code now, that uses the restrictively
+licensed library, even if it means your code is useless without submitting to
+the restrictively licensing of that library.  You may just want to prioritize
+having a restrictive solution now over only theoretically having a *perfect*
+solution later but never actually finishing.  Make sure your code is easily
+adapted if a less-restrictive library comes along later, though, such as when
+you do finally get around to reimplementing the restrictive library under
+copyfree terms.
 
 ### Value free thinking.
 
