@@ -1,0 +1,68 @@
+# Hacking Tech
+
+## Cultivate Useful Skills
+
+### Learn to program well.
+
+### Learn how to get around in open source platforms.
+
+This is not about learning "Linux".  This is about learning about open source
+OSes in a broader sense.  Learn at least one BSD Unix system.  Try out at least
+one system that is not BSD Unix, Linux, or closed source.  Play with something
+that comes with open source tools but does not even have an OS per se.
+
+Make sure you understand that there are very real benefits to using the most
+widely-used open source OSes (e.g. Ubuntu Linux); using the best-documented
+systems with broad user bases, with the most reliability-focused designs (e.g.
+OpenBSD); and the most interesting alternatives to "normal" ways of doing
+things (e.g. 9front or Haiku).  When you choose which OS to install on your
+laptop, your Raspberry Pi, your router/firewall, your backup server, and so on,
+make sure you aren't just using the same thing everywhere because it's what's
+familiar to you; make your decisions on a case-by-case basis.
+
+## Cultivate Virtuous Habits
+
+### Avoid repetition.
+
+When someone else has already created the thing you think you need to create,
+consider whether you really need to create a new version of it.  Does the old
+thing do what you need?  Can it be used in all the cases where you need it?  Is
+there really any reason to duplicate that work?  Don't repeat yourself,
+especially in code, if there's reasonable any way around it.  Stand on the
+shoulders of giants instead of just walking in their footsteps, and be proud
+that you made a decision to add to the body of good work in the world.
+
+### Create useful things and give them away.
+
+### Don't force people to reinvent the wheel.
+
+### Fix things.
+
+### Insist on quality.
+
+### Use time wisely.
+
+When you do something more than three times, or when you find that one task is
+long and tedious, consider whether you'd be better off automating it.  The
+answer is often "yes".  Sometimes, it's worth automating the first time you do
+it, because others may have already done it a thousand times, and it may still
+need to be done a thousand more.  The more we automate away the tedious tasks,
+the more time, inspiration, and energy we have to spend on achieving less
+tedious, more interesting goals.
+
+### Value free thinking.
+
+Rules often militate against thinking for yourself.  Such rules should be
+opposed.  While rules of thumb are often good guides, rules of authority just
+apply a hammer to everything, even if it's not a nail.  Sometimes, it's a
+screw, and sometimes it's a thumb.  The freedom to think for yourself is the
+freedom to solve problems, and to do better work than you did the day before.
+
+This also means you should value free thinking in others.  When they want to
+use your tools in a way you didn't intend, they may be on to something
+wonderful.  Don't build your tools to restrict what others do (but remember,
+this is a rule of thumb; think for yourself even when following this advice).
+Create tools with the expectation the tools may be reused in unexpected,
+brilliant ways, by both humans and other tools, and be grateful for the
+unexpected instead of angry or frustrated.  Celebrate free thinking in
+everyone, not just in yourself, and constantly encourage it.
