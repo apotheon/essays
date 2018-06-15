@@ -4,9 +4,7 @@
 
 ## Cultivate Useful Skills
 
-### Learn to program well.
-
-### Learn how to get around in open source platforms.
+### Familiarize yourself with open source platforms.
 
 This is not about learning "Linux".  This is about learning about open source
 OSes in a broader sense.  Learn at least one BSD Unix system.  Try out at least
@@ -21,6 +19,8 @@ things (e.g. 9front or Haiku).  When you choose which OS to install on your
 laptop, your Raspberry Pi, your router/firewall, your backup server, and so on,
 make sure you aren't just using the same thing everywhere because it's what's
 familiar to you; make your decisions on a case-by-case basis.
+
+### Learn to program well.
 
 ## Cultivate Virtuous Habits
 
