@@ -1,5 +1,7 @@
 # Working Title: FutureHacking
 
+(or: Hack To The Future)
+
 ## Cultivate Useful Skills
 
 ### Learn to program well.
